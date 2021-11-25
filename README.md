@@ -1,6 +1,6 @@
 
 
-# projet_plaquette, just a small app to work with basic node js features.
+# projet_plaquette, just a small app to work with basic NODE JS = EXPRESS JS = MONGO DB.
 
 
 
