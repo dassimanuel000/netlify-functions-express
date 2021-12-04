@@ -1,13 +1,15 @@
 
 # Projet Plaquette 
 
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][https://https://github.com/cnini/projet_plaquette/graphs/contributors]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
 ![Codacy Badge](https://api.codacy.com/project/badge/Grade/fee135b883c44376975a0681b816f686)
+
 
 ## Membres
 
@@ -19,12 +21,13 @@
 
 
 <hr/>
+
 ## Requirements
 
 - [x] Mongo execute Prompt / Bash
 - [x] Node JS Installed
 - [x] Python
-- [ ] mongod --port 27017 --dbpath /path
+- [x] mongod --port 27017 --dbpath /path
 
 
 ## Installation
