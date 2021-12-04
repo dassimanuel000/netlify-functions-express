@@ -5,6 +5,20 @@
 
 ## Membres
 
+Yasmine Nafissa LACHACHI
+
+Cynthia RABEMANANTSOA
+
+Elie DECHASSE
+
+Sadio TOURE
+
+Togni KIKI
+
+Viverk Ange ANTHONIPPILLAI
+
+Manuel DASSI KUETI
+
 
 ## Fonctionnalités rendus
 
