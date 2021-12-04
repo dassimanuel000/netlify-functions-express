@@ -1,20 +1,12 @@
 
+# Projet Plaquette 
 
-# projet_plaquette, just a small app to work with basic NODE JS = EXPRESS JS = MONGO DB.
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fee135b883c44376975a0681b816f686)](https://app.codacy.com/gh/iBast/BastienMunck_P5_20210420?utm_source=github.com&utm_medium=referral&utm_content=iBast/BastienMunck_P5_20210420&utm_campaign=Badge_Grade_Settings)
 
-
-
-## Usage (coming ...)
-
+## Membres
 
 
-## Developing (coming ...)
+## Fonctionnalités rendus
 
 
-
-### Tools
-
-Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)
- ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))   
-
-Nodeclipse is free open-source project that grows with your contributions.
+## Bonus 
