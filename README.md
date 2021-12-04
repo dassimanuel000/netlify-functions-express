@@ -5,26 +5,50 @@
 
 ## Membres
 
-Yasmine Nafissa LACHACHI
+	Yasmine Nafissa LACHACHI
 
-Cynthia RABEMANANTSOA
+	Cynthia RABEMANANTSOA
 
-Elie DECHASSE
+	Elie DECHASSE
 
-Sadio TOURE
+	Sadio TOURE
 
-Togni KIKI
+	Togni KIKI
 
-Viverk Ange ANTHONIPPILLAI
+	Viverk Ange ANTHONIPPILLAI
 
-Manuel DASSI KUETI
+	Manuel DASSI KUETI
 
 
 ## Fonctionnalités rendus
 
+#### ! Back-end :
+
+	-Gestion des administrateurs et des gestionnaires de la plateforme
+	-Gestion du contenu des programmes par thème (Soft Skills, Cloud &
+		Cyber Security, Apps & Design, Data, Internet of things, Hackathons, Professional
+		Expérience et Integration Project)
+	-Gestion du contenu des entreprises et campus partenaires (international)
+	-Gestion du contenu des certifications professionnelles préparées
+	-Gestion du contenu de la page des finances
+	-Gestion des blocs de compétences
+	-Gestion des rôles utilisateur
+
+#### !Front-end :
+	- Lien redirigeant vers le dossier d’admission
+	- Formulaire de contact permettant d’enregistrer les prospects
+	- Interfaces contenant les programmes par année, par thème ainsi que les compétences acquises pour chaque année
+	- Interface contenant les informations liées à l’alternance
+	- Interface contenant les éléments pour financer la formation
+	- Interface contenant les certifications préparées
+	- Interface contenant les entreprises partenaires de l’Estiam
+	- Interface contenant les campus partenaires de l’Estiam
 
 ## Bonus 
 
+	- Online Website
+	- Gestion des session Login Logout$
+	- Base de données sécurisée
 
 <hr/>
 
